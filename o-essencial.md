@@ -1,4 +1,4 @@
-```markdown
+
 # Formação ChatGPT
 
 - O ChatGPT é a interface
@@ -149,4 +149,3 @@ Hoje vamos resolver o [Problema]
     ```bash
     Act as 'Character' from 'Movie/Book/Anything'
     ```
-```
