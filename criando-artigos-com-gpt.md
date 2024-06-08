@@ -1,4 +1,4 @@
-# Checklist Para Gerar Artigos de Qualidade
+# Checklist Para Gerar Artigos de Qualidade 📄
 
 ## 1. Definir o Assunto
 - Escolha um assunto que você domine
