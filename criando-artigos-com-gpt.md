@@ -41,3 +41,6 @@ Faça alterações que julgar necessárias.
 ## 5. Formate o Arquivo
 Faça a formatação de acordo com o ambiente da plataforma aonde o artigo será postado.
 
+## Exemplo de Artigo criado com auxílio da ferramenta ChatGPT 
+- [Clique Aqui](https://web.dio.me/articles/como-usar-interfaces-para-melhorar-a-arquitetura-do-seu-projeto-java?back=%2Farticles&open-modal=true&page=1&order=oldest)
+
