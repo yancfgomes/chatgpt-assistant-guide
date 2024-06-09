@@ -1,10 +1,12 @@
-# Curso DIO.me - Formação em ChatGPT e Inteligência Artificial
+# Curso DIO - Formação em ChatGPT e Inteligência Artificial 🤖
 
-## Descrição
+![enter image description here](https://hermes.dio.me/articles/cover/e8335739-c51f-41ea-9da3-c970a0c8e465.jpg)
 
-Este repositório contém os prompts estudados durante o curso de formação da DIO.me, focado em como utilizar o ChatGPT e outras ferramentas de Inteligência Artificial (IA) para melhorar a performance de projetos e atividades diárias. 
+## Descrição 📄
 
-## Detalhes da Formação
+Este repositório contém os prompts estudados durante o curso de formação da [DIO](https://web.dio.me/track/decf433b-9bc9-4ddc-bfd4-639ed8da82d9), focado em como utilizar o ChatGPT e outras ferramentas de Inteligência Artificial (IA) para melhorar a performance de projetos e atividades diárias. 
+
+## Detalhes da Formação 👨🏽‍🎓
 
 Descubra na prática como performar melhor os seus projetos e as suas atividades diárias utilizando o ChatGPT e outras ferramentas de Inteligência Artificial (IA). Com essa incrível Formação, você irá adquirir um conhecimento essencial sobre o ChatGPT e suas diversas aplicações, explorando desde conceitos básicos até a criação de prompts assertivos e o uso do modelo como assistente virtual para desenvolvimento.
 
@@ -41,8 +43,4 @@ Este repositório contém todos os prompts estudados no curso, organizados para 
 
 ## Contato
 
-Para mais informações sobre o curso, visite [DIO.me](https://dio.me).
-
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Para mais informações sobre o curso, visite [DIO.me](https://web.dio.me/track/decf433b-9bc9-4ddc-bfd4-639ed8da82d9).
