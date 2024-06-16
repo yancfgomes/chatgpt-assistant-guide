@@ -4,7 +4,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-[📕Clique aqui para ler]("https://github.com/yancfgomes/chatgpt-assistant-guide/blob/main/ebook/EBOOK%20YAN.pdf")
+[📕Clique aqui para ler](https://github.com/yancfgomes/chatgpt-assistant-guide/blob/main/ebook/EBOOK%20YAN.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 
