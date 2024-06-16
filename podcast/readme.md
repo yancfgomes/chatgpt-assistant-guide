@@ -4,7 +4,7 @@
 
 Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-[📕Clique aqui para ler](#)
+[📕Clique aqui para ler](https://www.linkedin.com/feed/update/urn:li:activity:7208161992749027328/)
 
 ## 💻 Tecnologias utilizadas no projeto
 
