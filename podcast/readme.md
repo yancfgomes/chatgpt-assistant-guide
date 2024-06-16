@@ -9,8 +9,8 @@ Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
--[Lexica.Art](https://lexica.art/)
--[ElevenLabs](https://elevenlabs.io/)
+- [Lexica.Art](https://lexica.art/)
+- [ElevenLabs](https://elevenlabs.io/)
 - [CapCut](https://www.capcut.com/my-edit)
 
 ## ✨ Como foi feito ?
@@ -48,6 +48,7 @@ Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de
     >O podcast deve ser curto
     >Faça em texto corrido
     >Máximo 5000 caracteres
+
     {REGRAS NEGATIVAS}
 
     >Não use muitos termos técnicos
